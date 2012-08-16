@@ -2,10 +2,10 @@
 
 /*
 Plugin Name: My Line Breaker
-Plugin URI: http://tekk3.com/
+Plugin URI: http://tekk3.com/wordpressorg-plugins/my-line-break.zip
 Description: Just a simple line break using [lbreak]
 Author: tEkk3
-Version: 0.8
+Version: 0.9
 Author URI: http://tekk3.com/
 
 Copyright 2012  Gabe Arnold  (email : gabe@tekk3.com )
